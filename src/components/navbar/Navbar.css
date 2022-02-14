@@ -1,0 +1,7 @@
+.active {
+  color: lightgray;
+}
+
+.disabled {
+  color: gray;
+}
